@@ -1,0 +1,10 @@
+.user-icon {
+  float: right;
+  width: 150px;
+}
+
+input {
+  display: right;
+  justify-self: center;
+  align-items: center;
+}

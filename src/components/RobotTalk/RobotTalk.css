@@ -1,0 +1,11 @@
+.robot-icon {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 5px solid blue;
+  float: left;
+}
+p {
+  font-size: 35px;
+  text-align: left;
+}
